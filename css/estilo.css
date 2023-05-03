@@ -1,0 +1,528 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body {
+   background-color: #C6E0FF;
+}
+.ImagemLogo {
+   width: 200px;
+   height: 200px;
+}
+header {
+background-color: #2E8EFF;
+width: 100%;
+height: 175px;
+left: 0px;
+top: 0px;
+
+}
+
+.Pesquisa {
+   position: absolute;
+width: 932px;
+height: 60px;
+left: 450px;
+top: 60px;
+font-size: 15pt;
+}
+.PesquisaImg {
+   position: absolute;
+width: 48px;
+height: 48px;
+left: 390px;
+top: 65px;
+
+background: url(Pesquisa.png);
+}
+.Perfil {
+   position: absolute;
+width: 48px;
+height: 48px;
+left: 1675px;
+top: 60px;
+
+background: url(perfil.png)
+}
+.telefone {
+   position: absolute;
+width: 45px;
+height: 45px;
+left: 1750px;
+top: 60px;
+
+background: url(telefone.png)
+}
+
+.buy {
+   position: absolute;
+width: 48px;
+height: 48px;
+left: 1825px;
+top: 60px;
+
+background: url(buy.png)
+}
+.Cabeçalho {
+   position: absolute;
+width: 100%;
+height: 64px;
+left: 0px;
+top: 170x;
+background: #2375D6;
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #000000;
+}
+.iconeMenu {
+margin-left: 20px;
+margin-top: 5px;
+}
+.texto {
+   /* CATEGORIAS | LANÇAMENTOS | ROUPAS | WHEY PROTEIN | CREATINA | PRÉ-TREINO */
+
+
+position: absolute;
+width: 100%;
+height: 40px;
+top: 14px;
+letter-spacing: 5px;
+
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+color: #fff;
+}
+.prod1 {
+
+position: absolute;
+width: 337px;
+height: 558px;
+left: 100px;
+top: 266px;
+
+background: linear-gradient(0deg, #F8F8F8, #F8F8F8), linear-gradient(0deg, #B7B6B6, #B7B6B6), #B7B6B6;
+}
+.prod2 {
+   position: absolute;
+width: 337px;
+height: 558px;
+left: 537px;
+top: 266px;
+
+
+background: #F8F8F8;
+}
+.prod3 {
+   position: absolute;
+width: 337px;
+height: 558px;
+left: 974px;
+top: 266px;
+
+background: #F8F8F8;
+
+}
+.prod4 {
+   position: absolute;
+width: 337px;
+height: 558px;
+left: 1411px;
+top: 266px;
+
+background: #F8F8F8;
+
+}
+
+.Nome1 {
+   position: absolute;
+width: 337px;
+height: 141px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, #2375D6, #2375D6), #2375D6;
+}
+.Escrita1{
+   /* Barra de Proteína Bold Bombom Crocante */
+
+
+width: 337px;
+height: 141px;
+
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 50px;
+text-align: center;
+
+color: #C6E0FF;
+}
+.Preço1 {
+   position: absolute;
+width: 337px;
+height: 63px;
+left: 0px;
+top: 495px;
+
+background: linear-gradient(0deg, #2375D6, #2375D6), #2375D6;
+}
+.Valor1{
+
+position: absolute;
+width: 114px;
+height: 40px;
+left: 111px;
+top: 0px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+text-align: center;
+
+color: #C6E0FF;
+
+}
+.bold {
+
+position: absolute;
+width: 387px;
+height: 467px;
+left: -9px;
+top: 85px;
+background: url(bold.png);
+}
+
+.Nome2 {
+   position: absolute;
+width: 337px;
+height: 141px;
+left: 0px;
+top: 0px;
+
+background: #2375D6;
+}
+.Escrita2 {
+   /* Best Whey Iso - Atlhetica Nutrition */
+
+
+position: absolute;
+width: 242px;
+height: 120px;
+left: 46px;
+top: 11px;
+
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+color: #C6E0FF;
+}
+.Preço2 {
+   position: absolute;
+width: 337px;
+height: 63px;
+left: 0px;
+top: 495px;
+
+background: linear-gradient(0deg, #2375D6, #2375D6), #2375D6;
+}
+.Valor2 {
+   position: absolute;
+width: 131px;
+height: 40px;
+left: 103px;
+top: 0px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+text-align: center;
+
+color: #C6E0FF;
+
+}
+.whey {
+   position: absolute;
+width: 476px;
+height: 446px;
+left: -70px;
+top: 95px;
+
+background: url(image.png);
+}
+.Nome3 {
+   position: absolute;
+width: 337px;
+height: 141px;
+left: 0px;
+top: 0px;
+
+background: #2375D6;
+
+}
+.Escrita3 {
+   position: absolute;
+width: 242px;
+height: 120px;
+left: 46px;
+top: 11px;
+
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+color: #C6E0FF;
+
+}
+.Preço3 {
+   position: absolute;
+width: 337px;
+height: 63px;
+left: 0px;
+top: 495px;
+
+background: linear-gradient(0deg, #2375D6, #2375D6), #2375D6;
+
+}
+.Valor3 {
+   /* R$119,99 */
+
+
+position: absolute;
+width: 131px;
+height: 40px;
+left: 103px;
+top: 0px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+text-align: center;
+
+color: #C6E0FF;
+
+}
+.diabo {
+   position: absolute;
+width: 361px;
+height: 427px;
+left: -12px;
+top: 110px;
+
+background: url(diabo.png);
+}
+.Nome4 {
+   position: absolute;
+width: 337px;
+height: 141px;
+left: 0px;
+top: 0px;
+
+background: #2375D6;
+}
+.Escrita4 {
+
+position: absolute;
+width: 242px;
+height: 120px;
+left: 48px;
+top: 11px;
+
+font-family: 'Tiro Devanagari Hindi';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+color: #C6E0FF;
+
+
+}
+.Preço4 {
+   position: absolute;
+width: 337px;
+height: 63px;
+left: 0px;
+top: 495px;
+
+background: linear-gradient(0deg, #2375D6, #2375D6), #2375D6;
+}
+.Valor4 {
+   /* R$179,99 */
+
+
+position: absolute;
+width: 131px;
+height: 40px;
+left: 103px;
+top: 0px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+text-align: center;
+
+color: #C6E0FF;
+
+}
+.Creatina {
+   position: absolute;
+width: 309px;
+height: 372px;
+left: 15px;
+top: 160px;
+
+background: url(creatina.png);
+}
+.Rodapê {
+   position: absolute;
+width: 100%;
+height: 78px;
+left: 0px;
+top: 892px;
+
+background: #2E8EFF;
+}
+/* FOOTER */
+
+.insta {
+   position: absolute;
+width: 70px;
+height: 59px;
+left: 12px;
+top: 5px;
+
+background: url(insta.png);
+}
+.TxtInsta {
+   position: absolute;
+width: 222px;
+height: 52px;
+left: 100px;
+top: 9px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Twitter {
+
+position: absolute;
+width: 76px;
+height: 63px;
+left: 475px;
+top: 5px;
+
+background: url(twitter.png);
+}
+.TxtTwitter {
+   position: absolute;
+width: 222px;
+height: 52px;
+left: 570px;
+top: 9px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.face {
+   position: absolute;
+width: 71px;
+height: 65px;
+left: 950px;
+top: 0px;
+
+background: url(face.png);
+}
+.TxtFace {
+   /* MARRENET_SHOP */
+
+
+position: absolute;
+width: 222px;
+height: 52px;
+left: 1050px;
+top: 9px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.whats {
+   position: absolute;
+width: 70px;
+height: 70px;
+left: 1400px;
+top: 0px;
+
+background: url(image.png);
+}
+.TxtWhats {
+   position: absolute;
+width: 303px;
+height: 52px;
+left: 1480px;
+top: 9px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 52px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
